@@ -1,0 +1,24 @@
+install.packages("xlsx")
+Warning in install.packages :
+  unable to access index for repository http://cran.rstudio.com/src/contrib:
+  cannot open URL 'http://cran.rstudio.com/src/contrib/PACKAGES'
+Warning in install.packages :
+  unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/src/contrib:
+  cannot open URL 'http://www.stats.ox.ac.uk/pub/RWin/src/contrib/PACKAGES'
+Installing package into ‘C:/Users/Swar/Documents/R/win-library/3.4’
+(as ‘lib’ is unspecified)
+Warning in install.packages :
+  unable to access index for repository http://cran.rstudio.com/src/contrib:
+  cannot open URL 'http://cran.rstudio.com/src/contrib/PACKAGES'
+Warning in install.packages :
+  unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/src/contrib:
+  cannot open URL 'http://www.stats.ox.ac.uk/pub/RWin/src/contrib/PACKAGES'
+Warning in install.packages :
+  package ‘xlsx’ is not available (for R version 3.4.2)
+Warning in install.packages :
+  unable to access index for repository http://cran.rstudio.com/bin/windows/contrib/3.4:
+  cannot open URL 'http://cran.rstudio.com/bin/windows/contrib/3.4/PACKAGES'
+Warning in install.packages :
+  unable to access index for repository http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/3.4:
+  cannot open URL 'http://www.stats.ox.ac.uk/pub/RWin/bin/windows/contrib/3.4/PACKAGES'
+> 
